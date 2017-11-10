@@ -9,7 +9,7 @@ This is the code for the tutorial conducted in class on 11/009/2017.
 ## Required Softwares & Packages
 * [SQLite browser](http://sqlitebrowser.org/)
 * sqlite3
-
+* It is always a good idea to create a developer account when you work with APIs. For geocoding API, you'll have to use an API [key](https://developers.google.com/maps/documentation/geocoding/start)
 ## Running the code
 
 * Create a text file in the working directory called 'where.txt'. This would contain the name of the locations we would
